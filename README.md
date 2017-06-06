@@ -1,1 +1,1 @@
-# Cthermo
+# Thermo
